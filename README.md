@@ -9,6 +9,27 @@ Each visualization is more than just a figure — it is a complete learning expe
 
 Whether you are a student, researcher, educator, or data scientist, this repository aims to help you build stronger intuition for exploring and communicating data.
 
+<h1>🎯 Project Goals</h1>
+
+- Demonstrate every visualization in R and Python
+- Explain the statistical or analytical concept behind each figure
+- Use real-world datasets whenever possible
+- Publish one new visualization every two days
+- Encourage reproducible and well-documented data analysis
+
+<h1>📚 Repository Structure</h1>
+
+```text
+The-Visualization-Lab/
+
+├── README.md
+├── R/
+├── Python/
+├── Images/
+├── Data/
+├── References/
+```
+
 <h1>🤝 Contributions</h1>
 
 Suggestions, corrections, and new visualization ideas are always welcome.
