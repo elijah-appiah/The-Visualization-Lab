@@ -1,5 +1,5 @@
-# The-Visualization-Lab
-_A collection of elegant, educational, and reproducible data visualizations built with R and Python._
+<h1 style="color: blue; text-align: center; ">The Visualization Lab</h1>
+<p style="text-align: center;"><b>A collection of elegant, educational, and reproducible data visualizations built with R and Python</b></p>
 
 <h1>🌟 About the Project</h1>
 
