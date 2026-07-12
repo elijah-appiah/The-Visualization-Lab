@@ -20,6 +20,4 @@ Elijah Appiah
 PhD Candidate in Economics
 National Institute of Development Administration (NIDA), Bangkok, Thailand
 
-Interests:
-
-Econometrics, Data Science, Machine Learning, Quantitative Finance, Data Visualization, Statistical Computing
+**Interests:** Econometrics, Data Science, Machine Learning, Quantitative Finance, Data Visualization, Statistical Computing
