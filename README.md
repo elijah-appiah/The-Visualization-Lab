@@ -22,9 +22,4 @@ National Institute of Development Administration (NIDA), Bangkok, Thailand
 
 Interests:
 
-Econometrics
-Data Science
-Machine Learning
-Quantitative Finance
-Data Visualization
-Statistical Computing
+Econometrics, Data Science, Machine Learning, Quantitative Finance, Data Visualization, Statistical Computing
