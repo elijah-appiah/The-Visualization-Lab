@@ -9,6 +9,23 @@ Each visualization is more than just a figure — it is a complete learning expe
 
 Whether you are a student, researcher, educator, or data scientist, this repository aims to help you build stronger intuition for exploring and communicating data.
 
+<h1>🤝 Contributions</h1>
+
+Suggestions, corrections, and new visualization ideas are always welcome.
+
+If you have an idea that would make this repository better, feel free to open an issue or submit a pull request.
+
+<h1>⭐ Support the Project</h1>
+
+If you find this repository useful:
+
+- ⭐ Star the repository
+- 🍴 Fork it
+- 📢 Share it with others
+- 💬 Start a discussion
+
+Your support helps make this resource more useful for the data science community.
+
 _"Good visualizations don't just present data—they tell compelling stories that inspire understanding and better decisions."_
 
 ---
