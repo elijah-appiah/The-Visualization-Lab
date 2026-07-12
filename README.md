@@ -10,3 +10,21 @@ Each visualization is more than just a figure — it is a complete learning expe
 Whether you are a student, researcher, educator, or data scientist, this repository aims to help you build stronger intuition for exploring and communicating data.
 
 _"Good visualizations don't just present data—they tell compelling stories that inspire understanding and better decisions."_
+
+---
+
+👤 Author
+
+Elijah Appiah
+
+PhD Candidate in Economics
+National Institute of Development Administration (NIDA), Bangkok, Thailand
+
+Interests:
+
+Econometrics
+Data Science
+Machine Learning
+Quantitative Finance
+Data Visualization
+Statistical Computing
