@@ -94,4 +94,35 @@ National Institute of Development Administration (NIDA), Bangkok, Thailand
       <sub>Image Placeholder: Yet to upload</sub>
     </td>
   </tr>
+
+    <tr>
+    <td align="center">
+      <img src="#" width="280"/>
+      <br>
+      <b>Image Placeholder: Yet to upload</b>
+      <br>
+      <sub>Image Placeholder: Yet to upload</sub>
+    </td>
+    <td align="center">
+      <img src="#" width="280"/>
+      <br>
+      <b>Image Placeholder: Yet to upload</b>
+      <br>
+      <sub>Image Placeholder: Yet to upload</sub>
+    </td>
+    <td align="center">
+      <img src="#" width="280"/>
+      <br>
+      <b>Image Placeholder: Yet to upload</b>
+      <br>
+      <sub>Image Placeholder: Yet to upload</sub>
+    </td>
+       <td align="center">
+      <img src="#" width="280"/>
+      <br>
+      <b>Image Placeholder: Yet to upload</b>
+      <br>
+      <sub>Image Placeholder: Yet to upload</sub>
+    </td>
+  </tr>
 </table>
