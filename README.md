@@ -26,6 +26,7 @@ The-Visualization-Lab/
 ├── R/
 ├── Python/
 ├── Images/
+    ├── 1. central_limit_theorem.png
 ├── Data/
 ├── References/
 ```
@@ -59,3 +60,31 @@ PhD Candidate in Economics
 National Institute of Development Administration (NIDA), Bangkok, Thailand
 
 **Interests:** Econometrics, Data Science, Machine Learning, Quantitative Finance, Data Visualization, Statistical Computing
+
+---
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/1. central_limit_theorem.png" width="280"/>
+      <br>
+      <b>Central Limit Theorem</b>
+      <br>
+      <sub>Monte Carlo simulation of convergence to normality</sub>
+    </td>
+    <td align="center">
+      <img src="Images/cointegration.png" width="280"/>
+      <br>
+      <b>Cointegration</b>
+      <br>
+      <sub>Visualizing long-run equilibrium relationships</sub>
+    </td>
+    <td align="center">
+      <img src="Images/lorenz_curve.png" width="280"/>
+      <br>
+      <b>Lorenz Curve</b>
+      <br>
+      <sub>Visualizing income inequality</sub>
+    </td>
+  </tr>
+</table>
