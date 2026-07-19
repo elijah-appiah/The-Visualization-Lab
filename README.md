@@ -97,11 +97,11 @@ National Institute of Development Administration (NIDA), Bangkok, Thailand
 
     <tr>
     <td align="center">
-      <img src="#" width="280"/>
+      <img src="Images/1. central_limit_theorem.png" width="280"/>
       <br>
-      <b>Image Placeholder: Yet to upload</b>
+      <b>Central Limit Theorem</b>
       <br>
-      <sub>Image Placeholder: Yet to upload</sub>
+      <sub>Monte Carlo simulation of convergence to normality</sub>
     </td>
     <td align="center">
       <img src="#" width="280"/>
