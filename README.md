@@ -73,18 +73,18 @@ National Institute of Development Administration (NIDA), Bangkok, Thailand
       <sub>Monte Carlo simulation of convergence to normality</sub>
     </td>
     <td align="center">
-      <img src="Images/cointegration.png" width="280"/>
+      <img src="#" width="280"/>
       <br>
-      <b>Cointegration</b>
+      <b>Image Placeholder: Yet to upload</b>
       <br>
-      <sub>Visualizing long-run equilibrium relationships</sub>
+      <sub>Image Placeholder: Yet to upload</sub>
     </td>
     <td align="center">
-      <img src="Images/lorenz_curve.png" width="280"/>
+      <img src="#" width="280"/>
       <br>
-      <b>Lorenz Curve</b>
+      <b>Image Placeholder: Yet to upload</b>
       <br>
-      <sub>Visualizing income inequality</sub>
+      <sub>Image Placeholder: Yet to upload</sub>
     </td>
   </tr>
 </table>
